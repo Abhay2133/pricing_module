@@ -1,0 +1,9 @@
+﻿Country,City,Vehicle Type,Amount Airport Fees,Amount Per Hour,Amount Per KM,Base Amount,Base kms
+GM,london,Luxury,0.1,135,2.5,89,10
+GM,london,Comfort,0.1,55,1.25,43,10
+GM,london,Business Van,0.1,75,1.7,70,10
+GM,london,Mini Van,0.1,60,1.35,55,10
+GM,london,Business,0.1,65,1.5,58,10
+GM,london,Coach,0,0,0,0,0
+GM,london,Mini bus,0,0,0,0,0
+GM,london,Economy,0.1,50,1.15,39,10
